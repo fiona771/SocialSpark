@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SocialSpark"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etTimeOfDay"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="e.g. Morning, Afternoon, Dinner"
+        android:inputType="text"
+        android:layout_marginBottom="12dp"/>
+
+    <Button
+        android:id="@+id/btnGetSpark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Suggestion"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset"/>
+
+    <TextView
+        android:id="@+id/tvSuggestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your suggestion will appear here."
+        android:textSize="15sp"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
