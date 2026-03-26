@@ -7,7 +7,7 @@
 
 ## Links
 - **GitHub Repository**: [https://github.com/fiona771/SocialSpark]
-- **YouTube Video**: [YouTube Video Link]
+- **YouTube Video**: [https://youtube.com/shorts/bdwiFqJeOlM?si=KRYVL9-zxq8-dKD-]
 
 ---
 
@@ -76,7 +76,7 @@ The workflow ensures that my project is automatically built and tested every tim
 *Caption for screenshot 3: [showing invalid input time of day]
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+A video showcasing the app's functionality can be viewed here: [https://youtube.com/shorts/bdwiFqJeOlM?si=KRYVL9-zxq8-dKD-].
 
 ---
 
