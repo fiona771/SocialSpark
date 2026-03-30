@@ -12,7 +12,7 @@
 ---
 ## Project Overview
 
-The **[SocialSpark]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., provide a task management system, display weather forecasts, etc.].
+The **[SocialSpark]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to show users the inputs of the time of day e.g morning, dinner,afternoon after that they get their suggestions on what they should do on that day.
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
@@ -21,15 +21,15 @@ The app was developed to meet the requirements of the assignment, which includes
 ## Purpose and Features
 
 ### Purpose:
-The main goal of this app is to [suggest SocialSpark activities based on the time of day to help users stay connected with friends and family]. 
+The main goal of this app is to suggest SocialSpark activities based on the time of day to help users stay connected with friends and family. 
 
 ### Key Features:
-- Feature 1: [Text input for time of day"]
-- Feature 2: [social suggestion display"]
-- Feature 3: [Reset button"]
-- Feature 4: [Error handling for invalid input]
+- Feature 1:EditText - Text input for time of day"
+- Feature 2:TextView - social suggestion display"
+- Feature 3: Button - Reset button"
+- Feature 4: Error handling for invalid input
 
-These features aim to provide [these features aim to provide what the app aims to achive ].
+These features aim to provide what the app aims to achive .
 
 ---
 
