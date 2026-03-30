@@ -73,6 +73,8 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ![Screenshot 2](path_to_screenshot_2.png)
 *Caption for screenshot 2: [results input showing suggestion results"]*
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/2a308aba-54a5-40b4-b12d-88a409a6f0d4" />
+
 
 ![Screenshot 3](path to screenshot 3.png]
 *Caption for screenshot 3: [showing invalid input time of day]
