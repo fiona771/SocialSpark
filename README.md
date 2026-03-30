@@ -76,6 +76,8 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ![Screenshot 3](path to screenshot 3.png]
 *Caption for screenshot 3: [showing invalid input time of day]
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/a0de600e-2be6-4840-82c1-b94b5e65732b" />
+
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [https://youtube.com/shorts/bdwiFqJeOlM?si=KRYVL9-zxq8-dKD-].
