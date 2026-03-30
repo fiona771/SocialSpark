@@ -2,7 +2,7 @@
 - **Developer**: [Fiona Daniel Gama]
 - **Student Number**: [ST10526776]
 - **Group**: [Group 3]
-- **Course**: [Higher certificate in Mobile Application and Web Development]
+- **Course**: [Higher certificate in Mobile Application and Web Development] 
 - **Subject**: [IMAD5112]
 
 ## Links
