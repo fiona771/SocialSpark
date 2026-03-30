@@ -68,6 +68,8 @@ The workflow ensures that my project is automatically built and tested every tim
 ### App Screenshots:
 ![Screenshot 1](path_to_screenshot_1.png)
 *Caption for screenshot 1: [main screen with input field."]*
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/10c86bff-be9f-4f06-9ee4-30a12660e9d8" />
+
 
 ![Screenshot 2](path_to_screenshot_2.png)
 *Caption for screenshot 2: [results input showing suggestion results"]*
