@@ -10,7 +10,6 @@
 - **YouTube Video**: [https://youtube.com/shorts/bdwiFqJeOlM?si=KRYVL9-zxq8-dKD-]
 
 ---
-
 ## Project Overview
 
 The **[SocialSpark]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., provide a task management system, display weather forecasts, etc.].
